@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160385076853",
+    "firebase_url": "https://examhallinfo.firebaseio.com",
+    "project_id": "examhallinfo",
+    "storage_bucket": "examhallinfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160385076853:android:af5407a15d1e4628",
+        "android_client_info": {
+          "package_name": "com.example.prana.examhallinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160385076853-el2ifj107mp9ipic3b9a4i364v69u6tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prana.examhallinfo",
+            "certificate_hash": "0286b80eaeb79634523f83db7fcaab9369ece39e"
+          }
+        },
+        {
+          "client_id": "160385076853-2efj2lncma64lkafqft41khh9q9ve6hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlqQRJ73by-BImbMmViiaF9yX6dS9wvjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160385076853-2efj2lncma64lkafqft41khh9q9ve6hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
